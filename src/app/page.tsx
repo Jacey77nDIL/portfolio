@@ -294,7 +294,7 @@ export default function Portfolio() {
           </div>
           
           <div className="text-center">
-            <a href="github.com/Jacey77nDIL" className="text-sm font-medium hover:underline">View More</a>
+            <a href="github.com/Jacey77nDIL" target='_blank' className="text-sm font-medium hover:underline">View More</a>
           </div>
         </div>
       </section>
