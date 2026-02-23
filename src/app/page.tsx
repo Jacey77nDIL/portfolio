@@ -37,24 +37,24 @@ export default function Portfolio() {
   const projects = [
     {
       id: 1,
+      title: "SyncHealth (Cavista '26 Hackathon Award Winner)",
+      category: "Backend and AI Engineering",
+      image: "/synchealth.png",
+      link: "https://sync-health.vercel.app/"
+    },
+    {
+      id: 2,
       title: "RideShare",
       category: "Full-Stack Development",
       image: "/logo.png",
       link: "https://github.com/Jacey77nDIL/RideShare"
     },
     {
-      id: 2,
+      id: 3,
       title: "Toraaah",
       category: "Mobile Development",
       image: "/toraaah.png",
       link: "https://apps.apple.com/us/app/toraaah/id6748251324"
-    },
-    {
-      id: 3,
-      title: "Carbon Footprint Estimator",
-      category: "Rust Backend",
-      image: "/carbon.jpg",
-      link: "https://github.com/Jacey77nDIL/estimated_carbon_footprint"
     }
   ];
 
