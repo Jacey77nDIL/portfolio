@@ -376,7 +376,7 @@ export default function Portfolio() {
               <button onClick={() => scrollToSection('home')} className="hover:text-gray-300">Home</button>
               <button onClick={() => scrollToSection('about')} className="hover:text-gray-300">About</button>
               <button onClick={() => scrollToSection('portfolio')} className="hover:text-gray-300">Portfolio</button>
-              <a href="https://docs.google.com/document/d/16YbCVBiV8QLtu2ZL0fJu-5tKbTn1zBqExL_LfRbLiEc/edit?usp=sharing" className="hover:text-gray-300">Resume</a>
+              <a href="https://docs.google.com/document/d/16YbCVBiV8QLtu2ZL0fJu-5tKbTn1zBqExL_LfRbLiEc/edit?usp=sharing" target='_blank' className="hover:text-gray-300">Resume</a>
             </div>
             <div className="text-2xl font-light">Jason Nwaeze &copy; 2026</div>
           </div>
